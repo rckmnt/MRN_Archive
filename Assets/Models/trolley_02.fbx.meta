@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: b8be0c56e73f3d047a86ef94a1eac9aa
+timeCreated: 1520391478
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: trolley_02:backrest
+    100004: trolley_02:bottomnurbsSquare1
+    100006: trolley_02:bottomnurbsSquare2
+    100008: trolley_02:bottomnurbsSquare3
+    100010: trolley_02:bottomnurbsSquare4
+    100012: trolley_02:group1
+    100014: trolley_02:group10
+    100016: trolley_02:group2
+    100018: trolley_02:group3
+    100020: trolley_02:group4
+    100022: trolley_02:group5
+    100024: trolley_02:group6
+    100026: trolley_02:group7
+    100028: trolley_02:group8
+    100030: trolley_02:group9
+    100032: trolley_02:imagePlane1
+    100034: trolley_02:leftnurbsSquare1
+    100036: trolley_02:leftnurbsSquare2
+    100038: trolley_02:leftnurbsSquare3
+    100040: trolley_02:leftnurbsSquare4
+    100042: trolley_02:nurbsSquare1
+    100044: trolley_02:nurbsSquare2
+    100046: trolley_02:nurbsSquare3
+    100048: trolley_02:nurbsSquare4
+    100050: trolley_02:nurbsToPoly1
+    100052: trolley_02:nurbsToPoly1 1
+    100054: trolley_02:nurbsToPoly1 2
+    100056: trolley_02:nurbsToPoly1 3
+    100058: trolley_02:nurbsToPoly10
+    100060: trolley_02:nurbsToPoly10 1
+    100062: trolley_02:nurbsToPoly3
+    100064: trolley_02:nurbsToPoly3 1
+    100066: trolley_02:nurbsToPoly3 2
+    100068: trolley_02:nurbsToPoly3 3
+    100070: trolley_02:nurbsToPoly3 4
+    100072: trolley_02:nurbsToPoly3 5
+    100074: trolley_02:nurbsToPoly3 6
+    100076: trolley_02:nurbsToPoly4
+    100078: trolley_02:nurbsToPoly4 1
+    100080: trolley_02:nurbsToPoly4 2
+    100082: trolley_02:nurbsToPoly4 3
+    100084: trolley_02:nurbsToPoly5
+    100086: trolley_02:nurbsToPoly5 1
+    100088: trolley_02:nurbsToPoly5 2
+    100090: trolley_02:nurbsToPoly8
+    100092: trolley_02:nurbsToPoly9
+    100094: trolley_02:nurbsToPoly9 1
+    100096: trolley_02:nurbsToPoly9 2
+    100098: trolley_02:pCube1
+    100100: trolley_02:pCube10
+    100102: trolley_02:pCube11
+    100104: trolley_02:pCube12
+    100106: trolley_02:pCube13
+    100108: trolley_02:pCube2
+    100110: trolley_02:pCube3
+    100112: trolley_02:pCube4
+    100114: trolley_02:pCube5
+    100116: trolley_02:pCube6
+    100118: trolley_02:pCube7
+    100120: trolley_02:pCube8
+    100122: trolley_02:pCube9
+    100124: trolley_02:pCylinder1
+    100126: trolley_02:pCylinder2
+    100128: trolley_02:pCylinder3
+    100130: trolley_02:pCylinder4
+    100132: trolley_02:polySurface1
+    100134: trolley_02:polySurface10
+    100136: trolley_02:polySurface11
+    100138: trolley_02:polySurface12
+    100140: trolley_02:polySurface12 1
+    100142: trolley_02:polySurface13
+    100144: trolley_02:polySurface14
+    100146: trolley_02:polySurface15
+    100148: trolley_02:polySurface2
+    100150: trolley_02:polySurface3
+    100152: trolley_02:polySurface4
+    100154: trolley_02:polySurface5
+    100156: trolley_02:polySurface6
+    100158: trolley_02:polySurface7
+    100160: trolley_02:polySurface8
+    100162: trolley_02:polySurface9
+    100164: trolley_02:rightnurbsSquare1
+    100166: trolley_02:rightnurbsSquare2
+    100168: trolley_02:rightnurbsSquare3
+    100170: trolley_02:rightnurbsSquare4
+    100172: trolley_02:topnurbsSquare1
+    100174: trolley_02:topnurbsSquare2
+    100176: trolley_02:topnurbsSquare3
+    100178: trolley_02:topnurbsSquare4
+    100180: trolley_02:transform1
+    100182: trolley_02:transform10
+    100184: trolley_02:transform11
+    100186: trolley_02:transform12
+    100188: trolley_02:transform13
+    100190: trolley_02:transform14
+    100192: trolley_02:transform2
+    100194: trolley_02:transform3
+    100196: trolley_02:transform4
+    100198: trolley_02:transform5
+    100200: trolley_02:transform6
+    100202: trolley_02:transform7
+    100204: trolley_02:transform8
+    100206: trolley_02:transform9
+    400000: //RootNode
+    400002: trolley_02:backrest
+    400004: trolley_02:bottomnurbsSquare1
+    400006: trolley_02:bottomnurbsSquare2
+    400008: trolley_02:bottomnurbsSquare3
+    400010: trolley_02:bottomnurbsSquare4
+    400012: trolley_02:group1
+    400014: trolley_02:group10
+    400016: trolley_02:group2
+    400018: trolley_02:group3
+    400020: trolley_02:group4
+    400022: trolley_02:group5
+    400024: trolley_02:group6
+    400026: trolley_02:group7
+    400028: trolley_02:group8
+    400030: trolley_02:group9
+    400032: trolley_02:imagePlane1
+    400034: trolley_02:leftnurbsSquare1
+    400036: trolley_02:leftnurbsSquare2
+    400038: trolley_02:leftnurbsSquare3
+    400040: trolley_02:leftnurbsSquare4
+    400042: trolley_02:nurbsSquare1
+    400044: trolley_02:nurbsSquare2
+    400046: trolley_02:nurbsSquare3
+    400048: trolley_02:nurbsSquare4
+    400050: trolley_02:nurbsToPoly1
+    400052: trolley_02:nurbsToPoly1 1
+    400054: trolley_02:nurbsToPoly1 2
+    400056: trolley_02:nurbsToPoly1 3
+    400058: trolley_02:nurbsToPoly10
+    400060: trolley_02:nurbsToPoly10 1
+    400062: trolley_02:nurbsToPoly3
+    400064: trolley_02:nurbsToPoly3 1
+    400066: trolley_02:nurbsToPoly3 2
+    400068: trolley_02:nurbsToPoly3 3
+    400070: trolley_02:nurbsToPoly3 4
+    400072: trolley_02:nurbsToPoly3 5
+    400074: trolley_02:nurbsToPoly3 6
+    400076: trolley_02:nurbsToPoly4
+    400078: trolley_02:nurbsToPoly4 1
+    400080: trolley_02:nurbsToPoly4 2
+    400082: trolley_02:nurbsToPoly4 3
+    400084: trolley_02:nurbsToPoly5
+    400086: trolley_02:nurbsToPoly5 1
+    400088: trolley_02:nurbsToPoly5 2
+    400090: trolley_02:nurbsToPoly8
+    400092: trolley_02:nurbsToPoly9
+    400094: trolley_02:nurbsToPoly9 1
+    400096: trolley_02:nurbsToPoly9 2
+    400098: trolley_02:pCube1
+    400100: trolley_02:pCube10
+    400102: trolley_02:pCube11
+    400104: trolley_02:pCube12
+    400106: trolley_02:pCube13
+    400108: trolley_02:pCube2
+    400110: trolley_02:pCube3
+    400112: trolley_02:pCube4
+    400114: trolley_02:pCube5
+    400116: trolley_02:pCube6
+    400118: trolley_02:pCube7
+    400120: trolley_02:pCube8
+    400122: trolley_02:pCube9
+    400124: trolley_02:pCylinder1
+    400126: trolley_02:pCylinder2
+    400128: trolley_02:pCylinder3
+    400130: trolley_02:pCylinder4
+    400132: trolley_02:polySurface1
+    400134: trolley_02:polySurface10
+    400136: trolley_02:polySurface11
+    400138: trolley_02:polySurface12
+    400140: trolley_02:polySurface12 1
+    400142: trolley_02:polySurface13
+    400144: trolley_02:polySurface14
+    400146: trolley_02:polySurface15
+    400148: trolley_02:polySurface2
+    400150: trolley_02:polySurface3
+    400152: trolley_02:polySurface4
+    400154: trolley_02:polySurface5
+    400156: trolley_02:polySurface6
+    400158: trolley_02:polySurface7
+    400160: trolley_02:polySurface8
+    400162: trolley_02:polySurface9
+    400164: trolley_02:rightnurbsSquare1
+    400166: trolley_02:rightnurbsSquare2
+    400168: trolley_02:rightnurbsSquare3
+    400170: trolley_02:rightnurbsSquare4
+    400172: trolley_02:topnurbsSquare1
+    400174: trolley_02:topnurbsSquare2
+    400176: trolley_02:topnurbsSquare3
+    400178: trolley_02:topnurbsSquare4
+    400180: trolley_02:transform1
+    400182: trolley_02:transform10
+    400184: trolley_02:transform11
+    400186: trolley_02:transform12
+    400188: trolley_02:transform13
+    400190: trolley_02:transform14
+    400192: trolley_02:transform2
+    400194: trolley_02:transform3
+    400196: trolley_02:transform4
+    400198: trolley_02:transform5
+    400200: trolley_02:transform6
+    400202: trolley_02:transform7
+    400204: trolley_02:transform8
+    400206: trolley_02:transform9
+    2300000: trolley_02:nurbsToPoly1
+    2300002: trolley_02:nurbsToPoly1 1
+    2300004: trolley_02:nurbsToPoly1 2
+    2300006: trolley_02:nurbsToPoly1 3
+    2300008: trolley_02:nurbsToPoly10
+    2300010: trolley_02:nurbsToPoly10 1
+    2300012: trolley_02:nurbsToPoly3
+    2300014: trolley_02:nurbsToPoly3 1
+    2300016: trolley_02:nurbsToPoly3 2
+    2300018: trolley_02:nurbsToPoly3 3
+    2300020: trolley_02:nurbsToPoly3 4
+    2300022: trolley_02:nurbsToPoly3 5
+    2300024: trolley_02:nurbsToPoly3 6
+    2300026: trolley_02:nurbsToPoly4
+    2300028: trolley_02:nurbsToPoly4 1
+    2300030: trolley_02:nurbsToPoly4 2
+    2300032: trolley_02:nurbsToPoly4 3
+    2300034: trolley_02:nurbsToPoly5
+    2300036: trolley_02:nurbsToPoly5 1
+    2300038: trolley_02:nurbsToPoly5 2
+    2300040: trolley_02:nurbsToPoly8
+    2300042: trolley_02:nurbsToPoly9
+    2300044: trolley_02:nurbsToPoly9 1
+    2300046: trolley_02:nurbsToPoly9 2
+    2300048: trolley_02:pCube10
+    2300050: trolley_02:pCube11
+    2300052: trolley_02:pCube12
+    2300054: trolley_02:pCube13
+    2300056: trolley_02:pCube3
+    2300058: trolley_02:pCube4
+    2300060: trolley_02:pCube5
+    2300062: trolley_02:pCube6
+    2300064: trolley_02:pCube7
+    2300066: trolley_02:pCube8
+    2300068: trolley_02:pCube9
+    2300070: trolley_02:pCylinder1
+    2300072: trolley_02:pCylinder2
+    2300074: trolley_02:pCylinder3
+    2300076: trolley_02:pCylinder4
+    2300078: trolley_02:polySurface15
+    2300080: trolley_02:polySurface5
+    2300082: trolley_02:polySurface6
+    2300084: trolley_02:polySurface7
+    3300000: trolley_02:nurbsToPoly1
+    3300002: trolley_02:nurbsToPoly1 1
+    3300004: trolley_02:nurbsToPoly1 2
+    3300006: trolley_02:nurbsToPoly1 3
+    3300008: trolley_02:nurbsToPoly10
+    3300010: trolley_02:nurbsToPoly10 1
+    3300012: trolley_02:nurbsToPoly3
+    3300014: trolley_02:nurbsToPoly3 1
+    3300016: trolley_02:nurbsToPoly3 2
+    3300018: trolley_02:nurbsToPoly3 3
+    3300020: trolley_02:nurbsToPoly3 4
+    3300022: trolley_02:nurbsToPoly3 5
+    3300024: trolley_02:nurbsToPoly3 6
+    3300026: trolley_02:nurbsToPoly4
+    3300028: trolley_02:nurbsToPoly4 1
+    3300030: trolley_02:nurbsToPoly4 2
+    3300032: trolley_02:nurbsToPoly4 3
+    3300034: trolley_02:nurbsToPoly5
+    3300036: trolley_02:nurbsToPoly5 1
+    3300038: trolley_02:nurbsToPoly5 2
+    3300040: trolley_02:nurbsToPoly8
+    3300042: trolley_02:nurbsToPoly9
+    3300044: trolley_02:nurbsToPoly9 1
+    3300046: trolley_02:nurbsToPoly9 2
+    3300048: trolley_02:pCube10
+    3300050: trolley_02:pCube11
+    3300052: trolley_02:pCube12
+    3300054: trolley_02:pCube13
+    3300056: trolley_02:pCube3
+    3300058: trolley_02:pCube4
+    3300060: trolley_02:pCube5
+    3300062: trolley_02:pCube6
+    3300064: trolley_02:pCube7
+    3300066: trolley_02:pCube8
+    3300068: trolley_02:pCube9
+    3300070: trolley_02:pCylinder1
+    3300072: trolley_02:pCylinder2
+    3300074: trolley_02:pCylinder3
+    3300076: trolley_02:pCylinder4
+    3300078: trolley_02:polySurface15
+    3300080: trolley_02:polySurface5
+    3300082: trolley_02:polySurface6
+    3300084: trolley_02:polySurface7
+    4300000: trolley_02:polySurface5
+    4300002: trolley_02:polySurface6
+    4300004: trolley_02:polySurface7
+    4300006: trolley_02:pCylinder1
+    4300008: trolley_02:pCylinder2
+    4300010: trolley_02:pCube7
+    4300012: trolley_02:pCube6
+    4300014: trolley_02:pCube5
+    4300016: trolley_02:pCube4
+    4300018: trolley_02:pCube3
+    4300020: trolley_02:pCylinder3
+    4300022: trolley_02:pCylinder4
+    4300024: trolley_02:nurbsToPoly3
+    4300026: trolley_02:nurbsToPoly4
+    4300028: trolley_02:nurbsToPoly3
+    4300030: trolley_02:nurbsToPoly4
+    4300032: trolley_02:nurbsToPoly1
+    4300034: trolley_02:nurbsToPoly3
+    4300036: trolley_02:nurbsToPoly5
+    4300038: trolley_02:nurbsToPoly1
+    4300040: trolley_02:nurbsToPoly3
+    4300042: trolley_02:nurbsToPoly8
+    4300044: trolley_02:nurbsToPoly9
+    4300046: trolley_02:nurbsToPoly10
+    4300048: trolley_02:nurbsToPoly3
+    4300050: trolley_02:nurbsToPoly4
+    4300052: trolley_02:nurbsToPoly3
+    4300054: trolley_02:nurbsToPoly5
+    4300056: trolley_02:nurbsToPoly1
+    4300058: trolley_02:nurbsToPoly4
+    4300060: trolley_02:nurbsToPoly3
+    4300062: trolley_02:nurbsToPoly9
+    4300064: trolley_02:nurbsToPoly10
+    4300066: trolley_02:nurbsToPoly5
+    4300068: trolley_02:nurbsToPoly1
+    4300070: trolley_02:nurbsToPoly9
+    4300072: trolley_02:polySurface15
+    4300074: trolley_02:pCube12
+    4300076: trolley_02:pCube11
+    4300078: trolley_02:pCube10
+    4300080: trolley_02:pCube9
+    4300082: trolley_02:pCube8
+    4300084: trolley_02:pCube13
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: aa9c370013bff1f41a8677272298846f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trolley_02_brass_lambert
+    second: {fileID: 2100000, guid: a71b076bcb69be445b16d72a65cbdf87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trolley_02_gray_lambert
+    second: {fileID: 2100000, guid: e367d6e825c371941ad01defb90edbe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trolley_02_red_lambert
+    second: {fileID: 2100000, guid: 899973ff37a76204e8cabc90ffac8ee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trolley_02_trolley_texture
+    second: {fileID: 2100000, guid: 3085035db0dd6264ea03ed61cfc2eb9e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
