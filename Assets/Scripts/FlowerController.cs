@@ -111,8 +111,8 @@ public class FlowerController : MonoBehaviour {
             }
             else
             {
-                petals[i].SetRelativePosition(petalPositionsClosed[i], 0.2f, Easing.Custom, "0.05,0.78,0.65,0.99");
-                petals[i].transform.GetChild(0).gameObject.SetScale(petalScaleClosed, 0.2f);
+                petals[i].SetRelativePosition(petalPositionsClosed[i], 1.2f, Easing.Custom, "0.05,0.78,0.65,0.99");
+                petals[i].transform.GetChild(0).gameObject.SetScale(petalScaleClosed, 1.2f);
             }
 
         }
