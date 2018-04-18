@@ -65,6 +65,7 @@
      <Compile Include="Assets\Crayon\Scripts\Library\CrayonStateData.cs" />
      <Compile Include="Assets\Crayon\Scripts\Library\CrayonTweenCoroutines.cs" />
      <Compile Include="Assets\Crayon\Scripts\Library\CrayonUtils.cs" />
+     <Compile Include="Assets\Scripts\Coin.cs" />
      <Compile Include="Assets\Scripts\dingding.cs" />
      <Compile Include="Assets\Scripts\FlipFlowerOnClick.cs" />
      <Compile Include="Assets\Scripts\Floater.cs" />
