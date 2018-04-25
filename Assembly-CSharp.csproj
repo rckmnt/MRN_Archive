@@ -65,6 +65,7 @@
      <Compile Include="Assets\Crayon\Scripts\Library\CrayonStateData.cs" />
      <Compile Include="Assets\Crayon\Scripts\Library\CrayonTweenCoroutines.cs" />
      <Compile Include="Assets\Crayon\Scripts\Library\CrayonUtils.cs" />
+     <Compile Include="Assets\Scenes\fadeInOnDistance.cs" />
      <Compile Include="Assets\Scripts\Coin.cs" />
      <Compile Include="Assets\Scripts\dingding.cs" />
      <Compile Include="Assets\Scripts\FlipFlowerOnClick.cs" />
@@ -76,6 +77,7 @@
      <Compile Include="Assets\Scripts\lookAt_camera.cs" />
      <Compile Include="Assets\Scripts\scale_weirdly.cs" />
      <Compile Include="Assets\Scripts\Singleton.cs" />
+     <Compile Include="Assets\Scripts\SpinTrolley.cs" />
      <Compile Include="Assets\Scripts\SpriteTextureScaler.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />

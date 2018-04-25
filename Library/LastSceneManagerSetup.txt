@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/MRN_Archive.unity
+- path: Assets/Scenes/trolley_rotating.unity
   isLoaded: 1
   isActive: 1
