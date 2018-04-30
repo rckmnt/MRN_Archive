@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/trolley_rotating.unity
+- path: Assets/Scenes/old_test_Neighborhood_of_MakeBelieve.unity
   isLoaded: 1
   isActive: 1

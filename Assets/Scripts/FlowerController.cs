@@ -15,6 +15,12 @@ public class FlowerController : MonoBehaviour {
     private Vector3 petalScaleOpen;
     private Vector3 petalScaleClosed;
 
+
+	//	LookAt other Object
+	private Quaternion _lookRotation;
+	private Vector3 _direction;
+	public GameObject Trolley;
+
     public bool isThisFlowerOpenOnStart;
 
     private float initialAngleOriginInDeg = 10f;
@@ -29,6 +35,8 @@ public class FlowerController : MonoBehaviour {
             ExpandPetals(isFlowerExpanded);
         }
     }
+
+
 
     public void Awake()
     {
@@ -119,7 +127,23 @@ public class FlowerController : MonoBehaviour {
     }
 
 
+	public void Update(){
 
+
+		for (int i = 0; i < petals.Length; i++)
+		{
+			//			petals[i] = Instantiate(petalPrefab, transform);
+			//			petals[i].GetComponentInChildren<SpriteRenderer>().sprite = spritesForPetals[i];
+			//find the vector pointing from our position to the target
+			_direction = (petals[i].transform.position - Trolley.transform.position).normalized;
+			_lookRotation = Quaternion.LookRotation(_direction, Vector3.up);
+			//rotate us over time according to speed until we are in the required rotation
+			petals[i].transform.rotation = Quaternion.Slerp(transform.rotation, _lookRotation, 1f ); //Time.deltaTime * RotationSpeed
+
+		}
+
+
+	}
 
 
 
